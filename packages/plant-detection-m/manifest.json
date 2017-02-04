@@ -8,5 +8,5 @@
  "url": "https://github.com/gabrielburnworth/plant-detection",
  "zip": "https://github.com/gabrielburnworth/plant-detection/archive/modular.zip",
  "executable": "python",
- "args": ["plant-detection-master/Plant_Detection.py"]
+ "args": ["plant-detection-modular/Plant_Detection.py"]
 }
