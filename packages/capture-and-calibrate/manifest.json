@@ -1,0 +1,12 @@
+{
+ "package": "capture-and-calibrate",
+ "language": "python",
+ "author": "Farmbot.io",
+ "description": "plant detection",
+ "version": "0.0.1",
+ "min_os_version_major": 3,
+ "url": "https://github.com/gabrielburnworth/plant-detection",
+ "zip": "https://github.com/gabrielburnworth/plant-detection/archive/modular.zip",
+ "executable": "python",
+ "args": ["plant-detection-modular/capture-and-calibrate.py"]
+}
