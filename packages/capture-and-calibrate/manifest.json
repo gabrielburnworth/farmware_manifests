@@ -8,5 +8,5 @@
  "url": "https://github.com/gabrielburnworth/plant-detection",
  "zip": "https://github.com/gabrielburnworth/plant-detection/archive/modular.zip",
  "executable": "python",
- "args": ["plant-detection-modular/capture-and-calibrate.py"]
+ "args": ["plant-detection-modular/capture_and_calibrate.py"]
 }
