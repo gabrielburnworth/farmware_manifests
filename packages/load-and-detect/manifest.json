@@ -5,7 +5,7 @@
  "description": "plant detection",
  "version": "0.0.1",
  "min_os_version_major": 3,
- "url": "https://github.com/gabrielburnworth/plant-detection",
+ "url": "https://raw.githubusercontent.com/gabrielburnworth/farmware_manifests/master/packages/load-and-detect/manifest.json",
  "zip": "https://github.com/gabrielburnworth/plant-detection/archive/modular.zip",
  "executable": "python",
  "args": ["plant-detection-modular/load_and_detect.py"]
