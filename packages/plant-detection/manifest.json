@@ -1,12 +1,14 @@
 {
- "package": "plant-detection",
- "language": "python",
- "author": "Farmbot.io",
- "description": "Detects and marks green plants in a (not green) soil area image using Python OpenCV.",
- "version": "0.0.1",
- "min_os_version_major": 3,
- "url": "https://raw.githubusercontent.com/gabrielburnworth/farmware_manifests/master/packages/plant-detection/manifest.json",
- "zip": "https://github.com/gabrielburnworth/plant-detection/archive/master.zip",
- "executable": "python",
- "args": ["plant-detection-master/Plant_Detection.py"]
+  "package": "plant-detection",
+  "language": "python",
+  "author": "Farmbot.io",
+  "description": "Detects and marks green plants in a (not green) soil area image using Python OpenCV.",
+  "version": "0.0.1",
+  "min_os_version_major": 3,
+  "url": "https://raw.githubusercontent.com/gabrielburnworth/farmware_manifests/master/packages/plant-detection/manifest.json",
+  "zip": "https://github.com/gabrielburnworth/plant-detection/archive/master.zip",
+  "executable": "python",
+  "args": [
+    "plant-detection-master/Plant_Detection.py"
+  ]
 }

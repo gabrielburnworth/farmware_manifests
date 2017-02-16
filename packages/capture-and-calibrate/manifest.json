@@ -1,12 +1,14 @@
 {
- "package": "capture-and-calibrate",
- "language": "python",
- "author": "Farmbot.io",
- "description": "plant detection",
- "version": "0.0.1",
- "min_os_version_major": 3,
- "url": "https://raw.githubusercontent.com/gabrielburnworth/farmware_manifests/master/packages/capture-and-calibrate/manifest.json",
- "zip": "https://github.com/gabrielburnworth/plant-detection/archive/modular.zip",
- "executable": "python",
- "args": ["plant-detection-modular/capture_and_calibrate.py"]
+  "package": "capture-and-calibrate",
+  "language": "python",
+  "author": "Farmbot.io",
+  "description": "plant detection",
+  "version": "0.0.1",
+  "min_os_version_major": 3,
+  "url": "https://raw.githubusercontent.com/gabrielburnworth/farmware_manifests/master/packages/capture-and-calibrate/manifest.json",
+  "zip": "https://github.com/gabrielburnworth/plant-detection/archive/master.zip",
+  "executable": "python",
+  "args": [
+    "plant-detection-master/capture_and_calibrate.py"
+  ]
 }
