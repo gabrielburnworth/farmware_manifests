@@ -9,6 +9,6 @@
   "zip": "https://github.com/gabrielburnworth/plant-detection/archive/master.zip",
   "executable": "python",
   "args": [
-    "plant-detection-master/capture_and_detect.py"
+    "plant-detection-master/quickscripts/capture_and_detect.py"
   ]
 }
