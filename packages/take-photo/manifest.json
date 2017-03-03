@@ -1,0 +1,12 @@
+{
+ "package": "take-photo-staging",
+ "language": "python",
+ "author": "Farmbot.io",
+ "description": "Take a photo with a USB camera using Python OpenCV.",
+ "version": "0.0.1",
+ "min_os_version_major": 3,
+ "url": "https://raw.githubusercontent.com/gabrielburnworth/farmware_manifests/master/packages/take-photo/manifest.json",
+ "zip": "https://github.com/FarmBot-Labs/Take-Photo/archive/staging.zip",
+ "executable": "python",
+ "args": ["Take-Photo-staging/take_photo.py"]
+}
