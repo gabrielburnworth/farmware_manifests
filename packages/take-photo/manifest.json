@@ -3,7 +3,7 @@
  "language": "python",
  "author": "Farmbot.io",
  "description": "Take a photo with a USB camera using Python OpenCV.",
- "version": "0.0.2",
+ "version": "0.0.3",
  "min_os_version_major": 3,
  "farmware_tools_version": "v3.3.0",
  "url": "https://raw.githubusercontent.com/gabrielburnworth/farmware_manifests/master/packages/take-photo/manifest.json",
