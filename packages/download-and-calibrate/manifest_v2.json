@@ -1,0 +1,13 @@
+{
+  "package": "historical-camera-calibration",
+  "language": "python",
+  "author": "FarmBot, Inc",
+  "description": "plant detection",
+  "farmware_manifest_version": "2.0.0",
+  "package_version": "0.0.1",
+  "farmbot_os_version_requirement": ">=3.0.0",
+  "url": "https://raw.githubusercontent.com/gabrielburnworth/farmware_manifests/master/packages/download-and-calibrate/manifest_v2.json",
+  "zip": "https://github.com/gabrielburnworth/plant-detection/archive/master.zip",
+  "executable": "python",
+  "args": "plant-detection-master/quickscripts/download_and_calibrate.py"
+}
