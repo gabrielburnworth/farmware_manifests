@@ -1,5 +1,5 @@
 {
-  "package": "take-photo",
+  "package": "take-photo-staging",
   "language": "python",
   "author": "FarmBot, Inc.",
   "description": "Take a photo using a USB or Raspberry Pi camera.",
